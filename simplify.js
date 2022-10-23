@@ -8,7 +8,7 @@ _.arr.toArr = function(w){
   return w.split(",");
 }
 //toStr()
-_.arr.toStr(...w){
+_.arr.toStr = function(...w){
   return w.toStr();
 }
 
