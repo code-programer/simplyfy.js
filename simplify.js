@@ -9,7 +9,7 @@ _.arr.toArr = function(w){
 }
 //toStr()
 _.arr.toStr = function(...w){
-  return w.toStr();
+  return w.toString();
 }
 
 
