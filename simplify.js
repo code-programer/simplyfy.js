@@ -1,5 +1,5 @@
 var _ = {}
-_.help = function(?w){
+_.help = function(w){
   if(w === undefined){
     console.log(_)
   }
